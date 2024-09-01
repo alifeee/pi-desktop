@@ -1,0 +1,4 @@
+#!/bin/bash
+./guide.sh bbcfour
+echo "press ENTER to continue..."
+read

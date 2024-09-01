@@ -1,0 +1,2 @@
+#!/bin/bash
+vlc https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
