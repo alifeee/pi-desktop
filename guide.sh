@@ -63,6 +63,7 @@ elif [ $channel == "bbcfour" ]; then
   url="https://www.bbc.co.uk/iplayer/guide/bbcfour"
 else
   echo "no guide programmed for ${channel}"
+  exit 1
 fi
 
 echo "getting guide..."
